@@ -2,7 +2,7 @@
 
 Auto Plus is a car marketplace app that connects buyers and sellers, making the process of buying and selling cars more seamless and enjoyable. Whether you're looking to find your dream car or sell your current vehicle, Auto Plus has you covered.
 
-## By: Roman Ahmad Zeia, Kevin Waran, Ryan Liu
+## By: Roman Ahmad Zeia
 
 ## Features 📱
 
